@@ -58,7 +58,6 @@
 *://pinterest/*
 *://pinterest/*
 *://qz.com/*
-*://reddit/*
 *://reddit_TEMP/*
 *://rei/*
 *://rh.com/*
